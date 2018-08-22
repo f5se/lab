@@ -6,9 +6,9 @@ tags: SELAB
 - Vlan segment setting finished
 - Route is ready
 - Everything can be remote contorlled now
+- Github page source branch merge for team collaboration
 
 #### Next
 - ESXi installation
 - Vcenter dedicate server preparation
 - Lab documents preparation
-- Github page source branch merge for team collaboration
