@@ -68,3 +68,4 @@ hexo d
 
 After hexo deploy successfully, check https://f5se.io to verify the new post. If you want to edit your post, just run the above command again except the ```hexo new ``` command . 
 Anytime, you just need make sure you git pull hexo branch first before you do anything and git push hexo branch after you do anything.
+<div class="tip">The post must be wrote in Markdown formate. Pls learn some markdown language, it is very simple. And many GUI tools for writing markdown.</div>
