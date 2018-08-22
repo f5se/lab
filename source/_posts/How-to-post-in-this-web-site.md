@@ -21,7 +21,7 @@ wget -qO- https://raw.github.com/creationix/nvm/master/install.sh | sh
 nvm install stable
 ```
 
-#####3. 安装hexo
+##### 3. 安装hexo
 
 ```
 npm install hexo --save
