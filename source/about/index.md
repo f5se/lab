@@ -3,13 +3,22 @@ title: Lab Document
 date: 2018-08-19 23:03:10
 ---
 
-- [Updated at  2018.9.17](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-UpdatedbyatGreen2018.9.17)
+- [Updated at  2018.9.28](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page)
 - [Definition](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-Definition)
 - [Requirement](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-Requirement)
 - [DHCP Server:](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-DHCPServer:)
 - [Topology](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-Topology)
 - [Credential](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-Credential)
 - [Demo list (Draft)](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-Demolist(Draft))
+- Static IP occupation
+
+**Note: ip bigger than 200 is reservered for static setting**
+
+| IP addr       | Used for             | Belong to           | Owner        |
+|:------------- |:---------------------|:------------------- |-------------:|
+| 172.16.10.201 | K8s cluster master   | Common\_vm\_network | Jing
+| 172.16.10.202 | K8s cluster node1    | Common\_vm\_network | Jing
+| 172.16.10.203 | K8s cluster node2    | Common\_vm\_network | Jing
 
 - Topology(Public)
 <img src="/2018/09/17/Lab-Topology-0/topology-public.png">
