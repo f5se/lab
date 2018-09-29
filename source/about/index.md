@@ -19,6 +19,9 @@ date: 2018-08-19 23:03:10
 | 172.16.10.201 | K8s cluster master   | Common\_vm\_network | Jing
 | 172.16.10.202 | K8s cluster node1    | Common\_vm\_network | Jing
 | 172.16.10.203 | K8s cluster node2    | Common\_vm\_network | Jing
+| 172.16.20.201 | Common Demo BIGIP V12| VE\_MGMT\_network   | Jing
+| 172.16.20.202 | Common Demo BIGIP V13| VE\_MGMT\_network   | Jing
+| 172.16.30.202 | Common Demo BIGIP V13| VE\_external\_network   | Jing
 
 - Topology(Public)
 <img src="/2018/09/17/Lab-Topology-0/topology-public.png">
