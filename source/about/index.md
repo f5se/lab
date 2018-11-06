@@ -26,9 +26,9 @@ date: 2018-08-19 23:03:10
 | 172.16.20.202 | Common Demo BIGIP V13_1| VE\_MGMT\_network   | Jing
 | 172.16.30.202 | Common Demo BIGIP V13_1| VE\_external\_network   | Jing
 | 172.16.40.202 | Common Demo BIGIP V13_1| VE\_internal\_network   | Jing
-| 172.16.20.203 | Common Demo BIGIP V13_1| VE\_MGMT\_network   | Jing
-| 172.16.30.203 | Common Demo BIGIP V13_1| VE\_external\_network   | Jing
-| 172.16.40.203 | Common Demo BIGIP V13_1| VE\_internal\_network   | Jing
+| 172.16.20.203 | Common Demo BIGIP V13_2| VE\_MGMT\_network   | Jing
+| 172.16.30.203 | Common Demo BIGIP V13_2| VE\_external\_network   | Jing
+| 172.16.40.203 | Common Demo BIGIP V13_2| VE\_internal\_network   | Jing
 
 
 
