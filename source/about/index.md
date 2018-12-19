@@ -18,7 +18,8 @@ date: 2018-08-19 23:03:10
 |:------------- |:---------------------|:------------------- |-------------:|
 | 172.16.10.201 | K8s cluster master   | Common\_vm\_network | Jing
 | 172.16.10.202 | K8s cluster node1    | Common\_vm\_network | Jing
-| 172.16.10.203 | K8s cluster node2    | Common\_vm\_network | Jing
+| 172.16.10.203 | Common Demo BIGIP V13_1   | Common\_vm\_network | Jing
+| 172.16.10.204 | Common Demo BIGIP V13_2   | Common\_vm\_network | Jing
 | 172.16.20.201 | Common Demo BIGIP V12| VE\_MGMT\_network   | Jing
 
 | IP addr       | Used for             | Belong to           | Owner        |
