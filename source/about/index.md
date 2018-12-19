@@ -1,9 +1,9 @@
 ---
 title: Lab Document
-date: 2018-08-19 23:03:10
+date: 2018-12-19 23:03:10
 ---
 
-- [Updated at  2018.9.28](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page)
+- [Updated at  2018.12.19](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page)
 - [Definition](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-Definition)
 - [Requirement](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-Requirement)
 - [DHCP Server:](https://docs.f5net.com/display/~jlin/F5+China+SE+Lab+Page#F5ChinaSELabPage-DHCPServer:)
